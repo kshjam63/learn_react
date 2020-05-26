@@ -26,8 +26,8 @@ class NewCounter extends React.Component {
     render() {
         return (
             <div>
-                현재 카운트: {this.state.newCount}
-                <button onClick={this.increaseCount}>카운트 증가</button>
+                count: {this.state.newCount}
+                <button onClick={this.increaseCount}>+</button>
             </div>
         );
     }

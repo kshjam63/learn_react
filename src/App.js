@@ -8,10 +8,10 @@ class App extends Component {
             <div>
                 <nav>
                     <div className="nav-wrapper">
-                        <div>두잇 리액트</div>
+                        <div>react</div>
                     </div>
                 </nav>
-                <h1>머터리얼 CSS</h1>
+                <h1>material CSS</h1>
             </div>
         );
     }
